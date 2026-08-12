@@ -6,3 +6,5 @@ AgentsPad R5 verification lane fixture
 Run `./check.sh` — it must print `check ok`.
 
 CI runs `./check.sh` on every push.
+
+The check must stay green before merge.
