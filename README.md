@@ -10,3 +10,5 @@ CI runs `./check.sh` on every push.
 The check must stay green before merge.
 
 Unattended fixes run from the machine that holds the repo.
+
+The fix runs on the machine that holds this repo.
