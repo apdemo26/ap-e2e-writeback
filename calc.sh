@@ -8,7 +8,7 @@ pct() {
     echo "0"
     return
   fi
-  echo $(( part / whole * 100 ))
+  echo $(( part * 100 / whole ))
 }
 
 pct "$@"
