@@ -1,2 +1,7 @@
 # ap-e2e-writeback
-AgentsPad R5 verification lane fixture
+
+Standing fixture repository.
+
+## calc.sh
+
+`./calc.sh PART WHOLE` prints the integer percentage; `./test.sh` is the project's own check.
