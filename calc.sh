@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Tiny arithmetic helper used by check.sh.
-add() { echo $(( $1 + $2 + 1 )); }
+add() { echo $(( $1 + $2 )); }
