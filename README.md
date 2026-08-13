@@ -6,3 +6,5 @@ AgentsPad R5 verification lane fixture
 Run `./check.sh` — it must print `check ok`.
 
 CI must be green before merge.
+
+nudge 1786579784184
